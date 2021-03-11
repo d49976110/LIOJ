@@ -12,7 +12,6 @@ rl.on('line', function (line) {
 rl.on('close', function() {
   solve(lines)
 })
-
 //hello
 //l
 function solve(lines) {
